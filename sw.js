@@ -1,5 +1,5 @@
-const CACHE='nvqplus-v3';
-const LOCAL=['./','./index.html','./app.css','./app.js','./course-core.js','./unit-102.js','./units-234-235.js','./unit-238.js','./units-303-300-502.js','./unit-313.js','./unit-690.js','./unit-701.js','./unit-828.js','./unit-837.js','./manifest.webmanifest','./icon.svg','./icon-192.png','./icon-512.png'];
+const CACHE='nvqplus-v4';
+const LOCAL=['./','./index.html','./app.css','./app.js','./qr-compact.js','./course-core.js','./unit-102.js','./units-234-235.js','./unit-238.js','./units-303-300-502.js','./unit-313.js','./unit-690.js','./unit-701.js','./unit-828.js','./unit-837.js','./manifest.webmanifest','./icon.svg','./icon-192.png','./icon-512.png'];
 const REMOTE=[
   'https://cdn.jsdelivr.net/npm/pdf-lib@1.17.1/dist/pdf-lib.min.js',
   'https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js',
