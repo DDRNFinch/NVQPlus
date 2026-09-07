@@ -1,0 +1,13 @@
+{
+  "name":"NVQPlus",
+  "short_name":"NVQPlus",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#f5f5f3",
+  "theme_color":"#f6c542",
+  "description":"Unit-based NVQ evidence packs for City & Guilds 6570-05 Trowel Occupations.",
+  "icons":[
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
